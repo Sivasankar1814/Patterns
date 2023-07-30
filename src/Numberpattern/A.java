@@ -26,6 +26,7 @@ public class A {
 		            for (int j = i + 1; j < numbers.length; j++) {
 		                if (numbers[i] == numbers[j]) {
 		                    System.out.println("Duplicate number found: " + numbers[i]);
+		                    System.out.println("hello");
 		                }
 		            }
 		        }
